@@ -1,0 +1,4716 @@
+[
+  {
+    "id": "1",
+    "name": "麻婆豆腐",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 4,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "麻辣鲜香的经典川菜，豆腐嫩滑入味",
+    "isVegetarian": false,
+    "calories": 280,
+    "tags": [
+      "下饭",
+      "经典"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "2",
+    "name": "宫保鸡丁",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "鸡肉嫩滑，花生酥脆，甜辣适口",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "下饭",
+      "经典",
+      "快手菜"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "3",
+    "name": "水煮鱼",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 5,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "麻辣滚烫的鱼片，香辣过瘾",
+    "isVegetarian": false,
+    "calories": 400,
+    "tags": [
+      "大菜",
+      "聚餐"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "4",
+    "name": "回锅肉",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "五花肉煎至焦香，配蒜苗豆瓣酱翻炒",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "下饭",
+      "经典"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "5",
+    "name": "辣子鸡",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 5,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "干辣椒堆里找鸡丁，麻辣酥香",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "下酒",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "6",
+    "name": "白切鸡",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "皮滑肉嫩，原汁原味，蘸姜葱酱食用",
+    "isVegetarian": false,
+    "calories": 320,
+    "tags": [
+      "清淡",
+      "经典"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "7",
+    "name": "叉烧",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 1,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "蜜汁烤制，色泽红亮，甜香可口",
+    "isVegetarian": false,
+    "calories": 400,
+    "tags": [
+      "经典",
+      "下饭"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "8",
+    "name": "虾饺",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "水晶饺皮包裹鲜虾，晶莹剔透",
+    "isVegetarian": false,
+    "calories": 180,
+    "tags": [
+      "经典",
+      "点心",
+      "早茶"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "9",
+    "name": "肠粉",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "late_night"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "米浆蒸制，滑嫩细腻，配酱油食用",
+    "isVegetarian": true,
+    "calories": 200,
+    "tags": [
+      "清淡",
+      "早餐",
+      "经典"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "10",
+    "name": "煲仔饭",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "砂锅煮饭，米饭焦香，腊味飘香",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "经典",
+      "一人食"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "11",
+    "name": "剁椒鱼头",
+    "cuisine": "hunan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 4,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "鲜嫩鱼头铺满剁椒，香辣入味",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "大菜",
+      "聚餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "12",
+    "name": "小炒肉",
+    "cuisine": "hunan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "五花肉片与辣椒同炒，锅气十足",
+    "isVegetarian": false,
+    "calories": 420,
+    "tags": [
+      "下饭",
+      "快手菜"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "13",
+    "name": "北京烤鸭",
+    "cuisine": "beijing",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "皮脆肉嫩，配上葱丝黄瓜卷饼吃",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "大菜",
+      "经典",
+      "聚餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "14",
+    "name": "炸酱面",
+    "cuisine": "beijing",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "黄酱炒肉末拌面，配黄瓜丝",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "经典",
+      "一人食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "15",
+    "name": "糖醋排骨",
+    "cuisine": "jiangsu",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 4,
+      "sour": 3,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "外酥里嫩，酸甜可口",
+    "isVegetarian": false,
+    "calories": 420,
+    "tags": [
+      "下饭",
+      "经典",
+      "小孩爱吃"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "16",
+    "name": "红烧肉",
+    "cuisine": "jiangsu",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "五花肉焖至酥烂，色泽红亮",
+    "isVegetarian": false,
+    "calories": 520,
+    "tags": [
+      "下饭",
+      "经典",
+      "大菜"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "17",
+    "name": "东坡肉",
+    "cuisine": "zhejiang",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "苏轼传下的名菜，肥而不腻",
+    "isVegetarian": false,
+    "calories": 550,
+    "tags": [
+      "经典",
+      "大菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "18",
+    "name": "西湖醋鱼",
+    "cuisine": "zhejiang",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 4,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "草鱼清蒸后浇醋汁，鲜嫩酸甜",
+    "isVegetarian": false,
+    "calories": 300,
+    "tags": [
+      "经典",
+      "清淡"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "20",
+    "name": "锅包肉",
+    "cuisine": "northeast",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 3,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "外酥里嫩，酸甜口，东北名菜",
+    "isVegetarian": false,
+    "calories": 400,
+    "tags": [
+      "经典",
+      "下饭"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "21",
+    "name": "地三鲜",
+    "cuisine": "northeast",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "土豆茄子青椒同炒，素菜中的经典",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "经典",
+      "下饭",
+      "素食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "22",
+    "name": "饺子",
+    "cuisine": "beijing",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "皮薄馅大，蘸醋食用最美味",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "经典",
+      "一人食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "23",
+    "name": "火锅",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 5,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "红油翻滚，涮什么都好吃",
+    "isVegetarian": false,
+    "calories": 700,
+    "tags": [
+      "聚餐",
+      "经典",
+      "热闹"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "24",
+    "name": "兰州拉面",
+    "cuisine": "northwest",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "手工拉面配上清汤牛肉，一清二白三红四绿五黄",
+    "isVegetarian": false,
+    "calories": 420,
+    "tags": [
+      "经典",
+      "一人食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "25",
+    "name": "黄焖鸡米饭",
+    "cuisine": "shandong",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "鸡肉焖煮入味，汤汁浓郁拌饭绝配",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "一人食",
+      "下饭"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "26",
+    "name": "番茄炒蛋",
+    "cuisine": "shandong",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 2,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "国民家常菜，酸甜可口，老少皆宜",
+    "isVegetarian": true,
+    "calories": 200,
+    "tags": [
+      "家常",
+      "快手菜",
+      "下饭",
+      "素食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "27",
+    "name": "蛋炒饭",
+    "cuisine": "shandong",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "最经典的炒饭，粒粒分明",
+    "isVegetarian": true,
+    "calories": 400,
+    "tags": [
+      "家常",
+      "快手菜",
+      "一人食",
+      "素食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "28",
+    "name": "小笼包",
+    "cuisine": "shanghai",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "皮薄汤多，先咬一小口喝汤再吃",
+    "isVegetarian": false,
+    "calories": 250,
+    "tags": [
+      "经典",
+      "点心"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "29",
+    "name": "红烧牛肉面",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "牛肉酥烂，汤浓味醇，面条筋道",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "一人食",
+      "经典"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "30",
+    "name": "酸菜鱼",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 1,
+      "sour": 4,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "酸爽开胃的鱼片汤，配米饭一绝",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "下饭",
+      "聚餐"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "31",
+    "name": "披萨",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "意式烤饼，芝士拉丝，配料丰富",
+    "isVegetarian": false,
+    "calories": 600,
+    "tags": [
+      "经典",
+      "聚餐",
+      "西餐"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "32",
+    "name": "意大利面",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 2,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "经典番茄肉酱意面，简单美味",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "西餐",
+      "经典"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "33",
+    "name": "牛排",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 5
+    },
+    "imageUrl": "",
+    "description": "外焦里嫩，肉汁丰富",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "大菜",
+      "经典",
+      "西餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "34",
+    "name": "沙拉",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 2,
+      "salty": 1,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "新鲜蔬菜搭配酱汁，清爽健康",
+    "isVegetarian": true,
+    "calories": 180,
+    "tags": [
+      "清淡",
+      "健康",
+      "素食",
+      "西餐"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "35",
+    "name": "汉堡",
+    "cuisine": "western",
+    "categoryGroup": "fast_food",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "面包夹肉饼，快捷管饱",
+    "isVegetarian": false,
+    "calories": 550,
+    "tags": [
+      "快餐",
+      "经典"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "36",
+    "name": "炸鸡",
+    "cuisine": "western",
+    "categoryGroup": "fast_food",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "外酥里嫩，炸鸡配啤酒绝配",
+    "isVegetarian": false,
+    "calories": 600,
+    "tags": [
+      "快餐",
+      "下酒"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "37",
+    "name": "寿司",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 1,
+      "sour": 2,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "新鲜的鱼生配醋饭，精致美味",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "日料",
+      "经典",
+      "清淡"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "38",
+    "name": "拉面",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "浓郁汤底配上叉烧和溏心蛋",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "日料",
+      "一人食"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "39",
+    "name": "麻辣烫",
+    "cuisine": "sichuan",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 4,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "自己选食材，麻辣汤底涮煮，过瘾",
+    "isVegetarian": false,
+    "calories": 400,
+    "tags": [
+      "小吃",
+      "经典"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "40",
+    "name": "烧烤",
+    "cuisine": "northeast",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "炭火烤串，烟火气十足",
+    "isVegetarian": false,
+    "calories": 550,
+    "tags": [
+      "下酒",
+      "聚餐",
+      "夜市"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "41",
+    "name": "煎饼果子",
+    "cuisine": "beijing",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "breakfast",
+      "late_night"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "摊饼加鸡蛋果子，刷上酱料，边走边吃",
+    "isVegetarian": false,
+    "calories": 300,
+    "tags": [
+      "早餐",
+      "小吃",
+      "经典"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "42",
+    "name": "烤串",
+    "cuisine": "northeast",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "late_night"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "街头烧烤，烟火气十足",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "夜市",
+      "下酒"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "43",
+    "name": "螺蛳粉",
+    "cuisine": "sichuan",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 4,
+      "sweet": 1,
+      "sour": 3,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "闻着臭吃着香，酸辣过瘾的广西米粉",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "小吃",
+      "经典",
+      "一人食"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "44",
+    "name": "热干面",
+    "cuisine": "shandong",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "武汉特色，芝麻酱拌面，香气扑鼻",
+    "isVegetarian": true,
+    "calories": 400,
+    "tags": [
+      "早餐",
+      "经典",
+      "特色"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "45",
+    "name": "酸辣粉",
+    "cuisine": "sichuan",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 4,
+      "sweet": 1,
+      "sour": 4,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "酸辣开胃，粉条爽滑",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "小吃",
+      "经典"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "46",
+    "name": "烤鱼",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "整鱼烤制后浇上麻辣汤汁，配菜丰富",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "聚餐",
+      "大菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "47",
+    "name": "麻辣香锅",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 5,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "自选食材爆炒，麻辣干香",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "聚餐",
+      "下饭"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "48",
+    "name": "三杯鸡",
+    "cuisine": "jiangsu",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "一杯酱油一杯酒一杯糖，浓郁下饭",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "下饭",
+      "经典"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "49",
+    "name": "蒸水蛋",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "嫩滑如布丁，老少皆宜",
+    "isVegetarian": true,
+    "calories": 150,
+    "tags": [
+      "清淡",
+      "快手菜",
+      "素食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "50",
+    "name": "干锅牛蛙",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 4,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "牛蛙嫩滑，麻辣鲜香",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "聚餐",
+      "大菜"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "51",
+    "name": "姜葱炒蟹",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 2,
+      "umami": 5
+    },
+    "imageUrl": "",
+    "description": "鲜蟹姜葱爆炒，原汁原味",
+    "isVegetarian": false,
+    "calories": 300,
+    "tags": [
+      "大菜",
+      "聚餐"
+    ],
+    "weight": 6
+  },
+  {
+    "id": "52",
+    "name": "清蒸鲈鱼",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 5
+    },
+    "imageUrl": "",
+    "description": "清蒸保留鱼肉原味，鲜嫩无比",
+    "isVegetarian": false,
+    "calories": 250,
+    "tags": [
+      "清淡",
+      "经典",
+      "健康"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "53",
+    "name": "炒河粉",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "镬气十足的干炒牛河，粤菜经典",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "经典",
+      "一人食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "54",
+    "name": "毛血旺",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 5,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "鸭血毛肚配上麻辣汤底，火辣过瘾",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "下饭",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "55",
+    "name": "烤鸭腿",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "皮脆肉嫩，简单烤制就很好吃",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "西餐",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "56",
+    "name": "土豆炖牛肉",
+    "cuisine": "northeast",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "牛肉软烂土豆绵密，汤汁浓郁拌饭绝配",
+    "isVegetarian": false,
+    "calories": 520,
+    "tags": [
+      "下饭",
+      "家常"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "57",
+    "name": "扬州炒饭",
+    "cuisine": "jiangsu",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "配料丰富的经典炒饭，虾仁叉烧蛋丝",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "经典",
+      "一人食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "58",
+    "name": "章鱼烧",
+    "cuisine": "japanese",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "afternoon_tea",
+      "late_night"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "外脆内软，柴鱼片跳舞的章鱼小丸子",
+    "isVegetarian": false,
+    "calories": 250,
+    "tags": [
+      "小吃",
+      "日料"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "59",
+    "name": "韩国烤肉",
+    "cuisine": "korean",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "五花肉烤至焦香，包生菜吃",
+    "isVegetarian": false,
+    "calories": 550,
+    "tags": [
+      "聚餐",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "60",
+    "name": "石锅拌饭",
+    "cuisine": "korean",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "石锅加热，底部锅巴焦脆，拌上辣酱",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "韩餐",
+      "一人食"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "61",
+    "name": "KFC",
+    "cuisine": "western",
+    "categoryGroup": "fast_food",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "炸鸡汉堡薯条，经典快餐",
+    "isVegetarian": false,
+    "calories": 700,
+    "tags": [
+      "快餐",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "62",
+    "name": "麦当劳",
+    "cuisine": "western",
+    "categoryGroup": "fast_food",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "巨无霸薯条可乐，快捷方便",
+    "isVegetarian": false,
+    "calories": 650,
+    "tags": [
+      "快餐",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "63",
+    "name": "云吞面",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "鲜虾云吞配上竹升面，汤鲜味美",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "经典",
+      "一人食",
+      "清淡"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "64",
+    "name": "奶茶",
+    "cuisine": "shanghai",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 4,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "珍珠奶茶，快乐水",
+    "isVegetarian": true,
+    "calories": 300,
+    "tags": [
+      "饮品",
+      "下午茶",
+      "甜品"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "65",
+    "name": "酸梅汤",
+    "cuisine": "beijing",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 4,
+      "salty": 1,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "消暑解腻的传统饮品",
+    "isVegetarian": true,
+    "calories": 120,
+    "tags": [
+      "饮品",
+      "夏季"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "66",
+    "name": "双皮奶",
+    "cuisine": "cantonese",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 4,
+      "sour": 0,
+      "salty": 1,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "顺德经典甜品，奶香浓郁滑嫩",
+    "isVegetarian": true,
+    "calories": 200,
+    "tags": [
+      "甜品",
+      "经典"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "67",
+    "name": "冰淇淋",
+    "cuisine": "western",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 5,
+      "sour": 0,
+      "salty": 1,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "冰凉甜蜜，夏天的快乐",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "甜品",
+      "夏季"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "68",
+    "name": "臭豆腐",
+    "cuisine": "hunan",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "afternoon_tea",
+      "late_night"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "闻着臭吃起来香，外酥里嫩",
+    "isVegetarian": true,
+    "calories": 300,
+    "tags": [
+      "小吃",
+      "经典",
+      "夜市"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "69",
+    "name": "凉皮",
+    "cuisine": "northwest",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 1,
+      "sour": 3,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "陕西凉皮，酸辣爽口，夏日必备",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "小吃",
+      "夏季",
+      "素食"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "70",
+    "name": "麻辣拌",
+    "cuisine": "northeast",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 1,
+      "sour": 2,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "自选食材煮熟后拌麻辣酱料",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "小吃",
+      "一人食"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "72",
+    "name": "肉夹馍",
+    "cuisine": "northwest",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "腊汁肉夹在烤馍里，西北名小吃",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "小吃",
+      "经典"
+    ],
+    "weight": 10
+  },
+  {
+    "id": "73",
+    "name": "过桥米线",
+    "cuisine": "yunnan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "滚烫鸡汤烫熟食材，米线爽滑",
+    "isVegetarian": false,
+    "calories": 400,
+    "tags": [
+      "经典",
+      "一人食"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "74",
+    "name": "冒菜",
+    "cuisine": "sichuan",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 3,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 4,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "一个人的火锅，麻辣过瘾",
+    "isVegetarian": false,
+    "calories": 400,
+    "tags": [
+      "一人食",
+      "下饭"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "75",
+    "name": "椰子鸡",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 1,
+      "salty": 2,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "椰汁煮鸡，清甜鲜嫩，蘸沙姜青柠",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "清淡",
+      "聚餐"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "76",
+    "name": "口水鸡",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 1,
+      "sour": 2,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "红油浸泡的嫩鸡，麻辣鲜香",
+    "isVegetarian": false,
+    "calories": 320,
+    "tags": [
+      "凉菜",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "77",
+    "name": "夫妻肺片",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "牛杂切片配红油，麻辣爽口",
+    "isVegetarian": false,
+    "calories": 280,
+    "tags": [
+      "凉菜",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "78",
+    "name": "担担面",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "芝麻酱肉末拌面，香辣浓郁",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "面食",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "79",
+    "name": "葱油饼",
+    "cuisine": "shanghai",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "酥脆多层，葱香四溢",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "面食",
+      "早餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "80",
+    "name": "烤冷面",
+    "cuisine": "northeast",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "东北街头小吃，酸甜酱配鸡蛋",
+    "isVegetarian": false,
+    "calories": 280,
+    "tags": [
+      "街头",
+      "小吃"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "81",
+    "name": "铁板豆腐",
+    "cuisine": "snack",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "外焦里嫩的街头铁板豆腐",
+    "isVegetarian": true,
+    "calories": 180,
+    "tags": [
+      "街头",
+      "小吃"
+    ],
+    "weight": 6
+  },
+  {
+    "id": "88",
+    "name": "烧鹅",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "皮脆肉嫩，经典粤式烧味",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "粤菜",
+      "烧腊"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "89",
+    "name": "凯撒沙拉",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 1,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "经典凯撒酱配罗马生菜",
+    "isVegetarian": true,
+    "calories": 180,
+    "tags": [
+      "沙拉",
+      "健康"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "90",
+    "name": "田园沙拉",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 1,
+      "salty": 1,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "新鲜蔬菜沙拉配油醋汁",
+    "isVegetarian": true,
+    "calories": 120,
+    "tags": [
+      "沙拉",
+      "健康"
+    ],
+    "weight": 6
+  },
+  {
+    "id": "93",
+    "name": "奶油蘑菇汤",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "浓郁顺滑的法式经典汤品",
+    "isVegetarian": true,
+    "calories": 220,
+    "tags": [
+      "法餐",
+      "汤"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "95",
+    "name": "烤三文鱼",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "香烤三文鱼配柠檬黄油",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "海鲜",
+      "健康"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "96",
+    "name": "奶油意面",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "浓郁奶油白酱意面",
+    "isVegetarian": true,
+    "calories": 380,
+    "tags": [
+      "意面",
+      "西餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "97",
+    "name": "青酱意面",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "罗勒松子青酱拌面，清爽香浓",
+    "isVegetarian": true,
+    "calories": 350,
+    "tags": [
+      "意面",
+      "西餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "100",
+    "name": "法式吐司",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "breakfast",
+      "brunch"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "蛋奶浸泡后煎至金黄，配枫糖浆",
+    "isVegetarian": true,
+    "calories": 320,
+    "tags": [
+      "早餐",
+      "甜品"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "101",
+    "name": "美式松饼",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "breakfast",
+      "brunch"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 1,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "松软热乎的煎饼配水果蜂蜜",
+    "isVegetarian": true,
+    "calories": 300,
+    "tags": [
+      "早餐",
+      "美式"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "102",
+    "name": "牛排三明治",
+    "cuisine": "western",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "薄切牛排夹在烤面包中",
+    "isVegetarian": false,
+    "calories": 400,
+    "tags": [
+      "三明治",
+      "西餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "103",
+    "name": "墨西哥卷饼",
+    "cuisine": "western",
+    "categoryGroup": "fast_food",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 1,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "玉米饼卷肉酱芝士蔬菜",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "墨西哥",
+      "卷饼"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "104",
+    "name": "热狗",
+    "cuisine": "fast_food",
+    "categoryGroup": "fast_food",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "经典美式热狗配番茄酱",
+    "isVegetarian": false,
+    "calories": 300,
+    "tags": [
+      "美式",
+      "快餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "105",
+    "name": "薯条",
+    "cuisine": "fast_food",
+    "categoryGroup": "fast_food",
+    "mealTypes": [
+      "snack"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "金黄酥脆的炸薯条",
+    "isVegetarian": true,
+    "calories": 350,
+    "tags": [
+      "快餐",
+      "小吃"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "106",
+    "name": "炸鱼薯条",
+    "cuisine": "fast_food",
+    "categoryGroup": "fast_food",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "英国国菜，酥脆炸鱼配粗薯",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "英式",
+      "快餐"
+    ],
+    "weight": 6
+  },
+  {
+    "id": "107",
+    "name": "咖喱鱼蛋",
+    "cuisine": "snack",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "Q弹鱼蛋配浓郁咖喱汁",
+    "isVegetarian": false,
+    "calories": 180,
+    "tags": [
+      "街头",
+      "港式"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "108",
+    "name": "鸡蛋仔",
+    "cuisine": "snack",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "香港街头经典，外脆里软",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "甜品",
+      "港式"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "112",
+    "name": "味噌汤",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "日式味噌汤配豆腐海带",
+    "isVegetarian": true,
+    "calories": 80,
+    "tags": [
+      "日式",
+      "汤"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "113",
+    "name": "天妇罗",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "酥脆炸虾蔬菜配天妇罗汁",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "日式",
+      "炸物"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "114",
+    "name": "照烧鸡",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "香甜照烧酱汁的烤鸡腿",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "日式",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "115",
+    "name": "日式咖喱",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 2,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "浓郁温和的日式咖喱饭",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "日式",
+      "咖喱"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "116",
+    "name": "炸猪排",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "金黄酥脆的日式炸猪排",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "日式",
+      "炸物"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "117",
+    "name": "乌冬面",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "Q弹粗面配高汤，暖胃暖心",
+    "isVegetarian": true,
+    "calories": 320,
+    "tags": [
+      "日式",
+      "面食"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "118",
+    "name": "荞麦面",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "清爽荞麦面配蘸汁",
+    "isVegetarian": true,
+    "calories": 280,
+    "tags": [
+      "日式",
+      "面食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "119",
+    "name": "韩式炸鸡",
+    "cuisine": "korean",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "甜辣酱裹酥脆炸鸡",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "韩式",
+      "炸鸡"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "120",
+    "name": "泡菜煎饼",
+    "cuisine": "korean",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 1,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "韩式泡菜饼，酸辣酥脆",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "韩式",
+      "煎饼"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "121",
+    "name": "韩式拌面",
+    "cuisine": "korean",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 1,
+      "sour": 1,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "辣酱拌面配蔬菜鸡蛋",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "韩式",
+      "面食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "122",
+    "name": "紫菜包饭",
+    "cuisine": "korean",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "snack"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "韩式紫菜卷，方便美味",
+    "isVegetarian": false,
+    "calories": 280,
+    "tags": [
+      "韩式",
+      "小吃"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "124",
+    "name": "杨枝甘露",
+    "cuisine": "dessert",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 4,
+      "sour": 1,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "芒果西柚椰奶的组合",
+    "isVegetarian": true,
+    "calories": 200,
+    "tags": [
+      "甜品",
+      "港式"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "126",
+    "name": "焦糖布丁",
+    "cuisine": "dessert",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 4,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "滑嫩焦糖布丁，入口即化",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "甜品",
+      "法式"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "127",
+    "name": "提拉米苏",
+    "cuisine": "dessert",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "意式经典，咖啡与芝士的完美融合",
+    "isVegetarian": true,
+    "calories": 350,
+    "tags": [
+      "甜品",
+      "意式"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "128",
+    "name": "芝士蛋糕",
+    "cuisine": "dessert",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 1,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "浓郁芝士蛋糕配饼干底",
+    "isVegetarian": true,
+    "calories": 320,
+    "tags": [
+      "甜品",
+      "经典"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "130",
+    "name": "烤红薯",
+    "cuisine": "snack",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "冬日街头暖心烤红薯",
+    "isVegetarian": true,
+    "calories": 180,
+    "tags": [
+      "街头",
+      "暖食"
+    ],
+    "weight": 6
+  },
+  {
+    "id": "131",
+    "name": "卤鸭脖",
+    "cuisine": "snack",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack",
+      "late_night"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "麻辣卤鸭脖，追剧必备",
+    "isVegetarian": false,
+    "calories": 200,
+    "tags": [
+      "卤味",
+      "零食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "132",
+    "name": "烤鱿鱼",
+    "cuisine": "snack",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "snack",
+      "late_night"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "铁板烤鱿鱼，街头人气王",
+    "isVegetarian": false,
+    "calories": 220,
+    "tags": [
+      "街头",
+      "烧烤"
+    ],
+    "weight": 6
+  },
+  {
+    "id": "133",
+    "name": "照烧鸡腿饭",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "甜香照烧鸡腿配米饭",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "134",
+    "name": "牛丼",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "肥牛洋葱浇饭，快速满足",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "135",
+    "name": "亲子丼",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "鸡肉鸡蛋浇饭，温柔好味",
+    "isVegetarian": false,
+    "calories": 420,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "136",
+    "name": "猪排丼",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "酥脆炸猪排盖饭",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "137",
+    "name": "咖喱鸡肉饭",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 2,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "浓郁咖喱配嫩鸡腿",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "138",
+    "name": "蛋包饭",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 1,
+      "salty": 1,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "滑嫩蛋皮包裹番茄炒饭",
+    "isVegetarian": false,
+    "calories": 400,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "139",
+    "name": "卤肉饭",
+    "cuisine": "taiwanese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 0,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "台湾古早味卤肉浇饭",
+    "isVegetarian": false,
+    "calories": 420,
+    "tags": [
+      "一人食",
+      "台湾"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "140",
+    "name": "鸡排饭",
+    "cuisine": "taiwanese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "酥炸大鸡排配米饭",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "一人食",
+      "台湾"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "141",
+    "name": "三杯鸡饭",
+    "cuisine": "taiwanese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "九层塔酱香鸡块盖饭",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "一人食",
+      "台湾"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "142",
+    "name": "鱼香肉丝饭",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 2,
+      "sour": 2,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "鱼香味肉丝配米饭",
+    "isVegetarian": false,
+    "calories": 420,
+    "tags": [
+      "一人食",
+      "川菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "143",
+    "name": "麻婆豆腐饭",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "麻辣豆腐浇饭",
+    "isVegetarian": true,
+    "calories": 380,
+    "tags": [
+      "一人食",
+      "川菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "144",
+    "name": "土豆牛腩饭",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "软烂牛腩炖土豆盖饭",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "一人食",
+      "粤菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "145",
+    "name": "滑蛋牛肉饭",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "嫩滑鸡蛋牛肉盖饭",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "一人食",
+      "粤菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "146",
+    "name": "叉烧饭",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "蜜汁叉烧切片配米饭",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "一人食",
+      "粤菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "147",
+    "name": "烧鸭饭",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "脆皮烧鸭配米饭",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "一人食",
+      "粤菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "148",
+    "name": "榨菜肉丝面",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "简单快手的一人食面",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "149",
+    "name": "葱油拌面",
+    "cuisine": "shanghai",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "简单葱油拌面，香气扑鼻",
+    "isVegetarian": true,
+    "calories": 350,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "150",
+    "name": "雪菜肉丝面",
+    "cuisine": "shanghai",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "清爽雪菜肉丝汤面",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "151",
+    "name": "番茄鸡蛋面",
+    "cuisine": "chinese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 2,
+      "salty": 1,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "酸甜开胃的番茄鸡蛋面",
+    "isVegetarian": true,
+    "calories": 320,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "152",
+    "name": "阳春面",
+    "cuisine": "shanghai",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 1,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "简单清汤面，原味鲜美",
+    "isVegetarian": true,
+    "calories": 280,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "153",
+    "name": "日式拉面",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "浓郁豚骨汤底配溏心蛋",
+    "isVegetarian": false,
+    "calories": 420,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 9
+  },
+  {
+    "id": "154",
+    "name": "酱油拉面",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "清爽酱油汤底的拉面",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "155",
+    "name": "猪骨拉面",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 4
+    },
+    "imageUrl": "",
+    "description": "浓厚猪骨汤拉面",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "137",
+    "name": "可乐鸡翅",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "可乐炖鸡翅，甜香入味，零失败",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "家常",
+      "快手菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "138",
+    "name": "蒜苔炒肉",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "时令蒜苔配肉丝，下饭家常菜",
+    "isVegetarian": false,
+    "calories": 320,
+    "tags": [
+      "家常",
+      "下饭"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "139",
+    "name": "醋溜白菜",
+    "cuisine": "shandong",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 3,
+      "salty": 1,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "酸爽脆嫩的家常醋溜白菜",
+    "isVegetarian": true,
+    "calories": 120,
+    "tags": [
+      "家常",
+      "素菜",
+      "快手菜"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "140",
+    "name": "干煸四季豆",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "干煸至焦香的四季豆，下饭神器",
+    "isVegetarian": true,
+    "calories": 180,
+    "tags": [
+      "家常",
+      "素菜",
+      "下饭"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "141",
+    "name": "酸汤肥牛",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 0,
+      "sour": 3,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "酸辣开胃的金汤肥牛",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "下饭",
+      "聚餐"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "142",
+    "name": "蒜蓉粉丝蒸虾",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 3,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "蒜香浓郁，鲜嫩弹牙的蒸虾",
+    "isVegetarian": false,
+    "calories": 250,
+    "tags": [
+      "家常",
+      "海鲜"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "143",
+    "name": "花甲粉",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "鲜美的花甲粉丝煲",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "一人食",
+      "海鲜"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "144",
+    "name": "梅菜扣肉",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "五花肉配梅菜蒸至软烂",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "下饭",
+      "经典"
+    ],
+    "weight": 6
+  },
+  {
+    "id": "145",
+    "name": "粉蒸肉",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "米粉包裹五花肉蒸制，软糯香浓",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "下饭",
+      "家常"
+    ],
+    "weight": 6
+  },
+  {
+    "id": "146",
+    "name": "啤酒鸭",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "啤酒炖鸭肉，去腥增香",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "下饭",
+      "家常"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "147",
+    "name": "凉拌黄瓜",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 0,
+      "sour": 2,
+      "salty": 2,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "清爽脆嫩的凉拌黄瓜",
+    "isVegetarian": true,
+    "calories": 60,
+    "tags": [
+      "凉菜",
+      "快手菜",
+      "素食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "148",
+    "name": "皮蛋豆腐",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "冰凉的豆腐配皮蛋肉松",
+    "isVegetarian": false,
+    "calories": 180,
+    "tags": [
+      "凉菜",
+      "快手菜"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "149",
+    "name": "茄子煲",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "软糯入味的鱼香茄子煲",
+    "isVegetarian": true,
+    "calories": 220,
+    "tags": [
+      "下饭",
+      "素菜"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "150",
+    "name": "疙瘩汤",
+    "cuisine": "shandong",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "番茄鸡蛋疙瘩汤，暖胃家常",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "151",
+    "name": "麻酱面",
+    "cuisine": "beijing",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "芝麻酱拌面，简单满足",
+    "isVegetarian": true,
+    "calories": 380,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "152",
+    "name": "咖喱牛腩饭",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 1,
+      "sweet": 2,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "浓郁咖喱炖牛腩盖饭",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "一人食",
+      "下饭"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "153",
+    "name": "回锅肉盖饭",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 1,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 2,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 3,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "经典回锅肉配米饭",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "一人食",
+      "川菜"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "154",
+    "name": "辣子鸡丁饭",
+    "cuisine": "sichuan",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 2,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 3,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "麻辣鸡丁盖饭",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "一人食",
+      "川菜"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "155",
+    "name": "糖醋里脊饭",
+    "cuisine": "shandong",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 2,
+      "salty": 1,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "酸甜酥脆的糖醋里脊盖饭",
+    "isVegetarian": false,
+    "calories": 480,
+    "tags": [
+      "一人食",
+      "下饭"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "156",
+    "name": "红烧排骨饭",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 2,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "酱香浓郁的红烧排骨盖饭",
+    "isVegetarian": false,
+    "calories": 500,
+    "tags": [
+      "一人食",
+      "下饭"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "157",
+    "name": "肥牛饭",
+    "cuisine": "japanese",
+    "categoryGroup": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 2,
+      "umami": 3
+    },
+    "imageUrl": "",
+    "description": "肥牛洋葱浇饭，快速满足",
+    "isVegetarian": false,
+    "calories": 450,
+    "tags": [
+      "一人食",
+      "日式"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "158",
+    "name": "炒米粉",
+    "cuisine": "fujian",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "福建炒米粉配蔬菜肉丝",
+    "isVegetarian": false,
+    "calories": 350,
+    "tags": [
+      "一人食",
+      "粉面"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "159",
+    "name": "炒面",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "广式炒面，锅气十足",
+    "isVegetarian": false,
+    "calories": 380,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "160",
+    "name": "馄饨",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "late_night"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "薄皮馄饨配清汤",
+    "isVegetarian": false,
+    "calories": 280,
+    "tags": [
+      "一人食",
+      "面食"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "161",
+    "name": "皮蛋瘦肉粥",
+    "cuisine": "cantonese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "绵密米粥配皮蛋瘦肉",
+    "isVegetarian": false,
+    "calories": 250,
+    "tags": [
+      "早餐",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "162",
+    "name": "豆浆油条",
+    "cuisine": "chinese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 1,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "经典搭配，永不过时",
+    "isVegetarian": true,
+    "calories": 350,
+    "tags": [
+      "早餐",
+      "经典"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "163",
+    "name": "豆腐脑",
+    "cuisine": "chinese",
+    "categoryGroup": "chinese",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 1
+    },
+    "imageUrl": "",
+    "description": "嫩滑豆腐脑配卤汁",
+    "isVegetarian": true,
+    "calories": 150,
+    "tags": [
+      "早餐",
+      "传统"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "164",
+    "name": "茶叶蛋",
+    "cuisine": "chinese",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 2,
+      "umami": 2
+    },
+    "imageUrl": "",
+    "description": "酱油茶叶慢煮入味",
+    "isVegetarian": false,
+    "calories": 100,
+    "tags": [
+      "早餐",
+      "街头"
+    ],
+    "weight": 7
+  },
+  {
+    "id": "165",
+    "name": "珍珠奶茶",
+    "cuisine": "taiwanese",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 3,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "Q弹珍珠配香浓奶茶",
+    "isVegetarian": true,
+    "calories": 250,
+    "tags": [
+      "饮品",
+      "下午茶"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "166",
+    "name": "咖啡",
+    "cuisine": "western",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "breakfast",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 1,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 0,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "现磨黑咖啡，提神醒脑",
+    "isVegetarian": true,
+    "calories": 5,
+    "tags": [
+      "饮品",
+      "提神"
+    ],
+    "weight": 8
+  },
+  {
+    "id": "167",
+    "name": "拿铁",
+    "cuisine": "western",
+    "categoryGroup": "snack",
+    "mealTypes": [
+      "breakfast",
+      "afternoon_tea"
+    ],
+    "spiceLevel": 0,
+    "priceRange": 2,
+    "flavorProfile": {
+      "spicy": 0,
+      "sweet": 1,
+      "sour": 0,
+      "salty": 0,
+      "umami": 0
+    },
+    "imageUrl": "",
+    "description": "意式浓缩配牛奶",
+    "isVegetarian": true,
+    "calories": 150,
+    "tags": [
+      "饮品",
+      "咖啡"
+    ],
+    "weight": 8
+  }
+]
