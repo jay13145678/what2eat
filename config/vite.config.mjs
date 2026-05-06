@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import { VitePWA } from 'vite-plugin-pwa'
 import { fileURLToPath } from 'node:url'
 
-const rootDir = fileURLToPath(new URL('.', import.meta.url))
+const rootDir = fileURLToPath(new URL('..', import.meta.url))
 
 export default defineConfig({
   root: rootDir,
@@ -31,7 +31,7 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url)),
+      '@': fileURLToPath(new URL('../src', import.meta.url)),
     },
   },
   base: './',

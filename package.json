@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --configLoader native --config vite.config.mjs",
-    "build": "tsc -b && vite build --configLoader native --config vite.config.mjs",
-    "lint": "eslint .",
-    "preview": "vite preview --configLoader native --config vite.config.mjs"
+    "dev": "vite --configLoader native --config config/vite.config.mjs",
+    "build": "tsc -b config/tsconfig.json && vite build --configLoader native --config config/vite.config.mjs",
+    "lint": "eslint -c config/eslint.config.js .",
+    "preview": "vite preview --configLoader native --config config/vite.config.mjs"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",
