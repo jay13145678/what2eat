@@ -13,19 +13,20 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['icon-192.png', 'icon-512.png'],
+      includeAssets: ['icon.svg', 'icon-192.png', 'icon-512.png'],
       manifest: {
         name: '今天吃什么',
         short_name: '吃什么',
         description: '帮你更快决定今天吃什么。',
-        theme_color: '#FF6B35',
-        background_color: '#FFF8F0',
+        theme_color: '#1A1A1A',
+        background_color: '#FFFFFF',
         display: 'standalone',
         orientation: 'portrait-primary',
         icons: [
           { src: 'icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
           { src: 'icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
           { src: 'icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+          { src: 'icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any' },
         ],
       },
     }),

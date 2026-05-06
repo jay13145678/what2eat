@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- 白底圆角方形 -->
+  <rect width="512" height="512" rx="100" fill="#FFFFFF"/>
+  <!-- 细边框（和网页 border-3px 风格一致） -->
+  <rect x="12" y="12" width="488" height="488" rx="88" fill="none" stroke="#1A1A1A" stroke-width="24"/>
+
+  <!-- 碗 — 半圆弧 -->
+  <path d="M140 210 Q140 395 256 395 Q372 395 372 210" fill="none" stroke="#1A1A1A" stroke-width="32" stroke-linecap="round"/>
+
+  <!-- 碗口椭圆 -->
+  <ellipse cx="256" cy="210" rx="116" ry="24" fill="none" stroke="#1A1A1A" stroke-width="24"/>
+
+  <!-- 筷子 -->
+  <line x1="185" y1="80" x2="220" y2="350" stroke="#1A1A1A" stroke-width="20" stroke-linecap="round"/>
+  <line x1="330" y1="80" x2="295" y2="350" stroke="#1A1A1A" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- 蒸汽 -->
+  <path d="M225 110 Q237 80 225 50" fill="none" stroke="#1A1A1A" stroke-width="12" stroke-linecap="round" opacity="0.4"/>
+  <path d="M256 95 Q268 65 256 35" fill="none" stroke="#1A1A1A" stroke-width="12" stroke-linecap="round" opacity="0.25"/>
+  <path d="M287 110 Q299 80 287 50" fill="none" stroke="#1A1A1A" stroke-width="12" stroke-linecap="round" opacity="0.35"/>
+</svg>
